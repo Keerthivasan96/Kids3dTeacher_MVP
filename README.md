@@ -9,7 +9,7 @@ The coolest, most engaging AI teacher companion ever built for kids aged 5–16.
 
 Spider-Man (PS4 mask) comes to life in glorious 3D, listens to the child, answers in perfect age-appropriate language, moves his head naturally, opens his mouth when speaking, and never breaks the scroll or UI — everything is buttery smooth on desktop, tablet, and phone.
 
-### Why this project is legendary
+### Why this project?
 - Zero lag, zero jank, zero scroll bugs (we killed every single demon)
 - Perfectly framed, brightly lit, heroic-looking Spidey mask (real jaw bone animation when talking)
 - Grade-specific prompts (Class 3 → super simple & short, Class 10 → proper explanations)
