@@ -2,9 +2,6 @@
 
 # Spidey Teacher 🕷️✨ – Real-Time 3D AI Avatar for Kids (Classroom Edition)
 
-**Live Demo** → https://spidey-teacher.netlify.app (or your deployed link)  
-**Backup Repo** → https://github.com/Keerthivasan96/speaking-avatar-mvp-backup  
-
 The coolest, most engaging AI teacher companion ever built for kids aged 5–16.
 
 Spider-Man (PS4 mask) comes to life in glorious 3D, listens to the child, answers in perfect age-appropriate language, moves his head naturally, opens his mouth when speaking, and never breaks the scroll or UI — everything is buttery smooth on desktop, tablet, and phone.
